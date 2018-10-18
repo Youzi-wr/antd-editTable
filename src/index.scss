@@ -1,0 +1,23 @@
+.client {
+  padding: 16px;
+  .client-wrap {
+    padding: 20px;
+    background-color: #fff;
+  }
+  .colmns-ip {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  :global {
+    .ant-table-thead > tr > th,
+    .ant-table-tbody > tr > td {
+      padding: 15px 9px;
+    }
+    .editable-row .ant-form-explain {
+      position: absolute;
+      font-size: 12px;
+      margin-top: -4px;
+    }
+  }
+}
