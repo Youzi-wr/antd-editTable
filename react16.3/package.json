@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "react-dom": "^16.3.2",
+    "react": "^16.3.2",
+    "antd": "^3.10.0"
+  },
+  "name": "73zvp3vljx",
+  "description": null,
+  "version": "0.0.17",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
